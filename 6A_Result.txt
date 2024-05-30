@@ -1,0 +1,2 @@
+送信：abcdefg
+返信：ABCDEFG
